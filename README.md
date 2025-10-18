@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="Sales_Dashboard.png" alt="Sales Dashboard Preview" width="800"/>
+  <img src="Sales_Dashboard_store.png" alt="Sales Dashboard Preview" width="800"/>
 </p>
 
 ---
